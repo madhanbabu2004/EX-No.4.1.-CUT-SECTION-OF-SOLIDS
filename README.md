@@ -1,5 +1,5 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE: 14/04/25
+## DATE: 28/04/25
 ## Reg.No: 212222230075
 ## AIM
 To create the solid model from given drawing and section the solid model
